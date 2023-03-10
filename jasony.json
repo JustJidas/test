@@ -1,5 +1,4 @@
-{
-    "body": [
+[
       {
         "room": "401",
         "floor": 4,
@@ -43,5 +42,4 @@
         "desc": "kmenová učebna"
       }
     ]
-  }
   
