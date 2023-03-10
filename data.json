@@ -1,0 +1,47 @@
+{
+    "body": [
+      {
+        "room": "401",
+        "floor": 4,
+        "class": "C2/Č2",
+        "desc": "kmenová učebna"
+      },
+      {
+        "room": "403",
+        "floor": 4,
+        "class": "C1/Č1",
+        "desc": "kmenová učebna"
+      },
+      {
+        "room": "404",
+        "floor": 4,
+        "class": "K3A/K3B",
+        "desc": "kmenová učebna"
+      },
+      {
+        "room": "406",
+        "floor": 4,
+        "class": "HŠ2A",
+        "desc": "kmenová učebna"
+      },
+      {
+        "room": "405",
+        "floor": 4,
+        "class": "c3/Č3",
+        "desc": "kmenová učebna"
+      },
+      {
+        "room": "402",
+        "floor": 4,
+        "class": "K1A/K2A",
+        "desc": "kmenová učebna"
+      },
+      {
+        "room": "408",
+        "floor": 4,
+        "class": "HŠ3A",
+        "desc": "kmenová učebna"
+      }
+    ]
+  }
+  
