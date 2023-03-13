@@ -1,45 +1,50 @@
 [
-      {
-        "room": "401",
-        "floor": 4,
-        "class": "C2/Č2",
-        "desc": "kmenová učebna"
-      },
-      {
-        "room": "403",
-        "floor": 4,
-        "class": "C1/Č1",
-        "desc": "kmenová učebna"
-      },
-      {
-        "room": "404",
-        "floor": 4,
-        "class": "K3A/K3B",
-        "desc": "kmenová učebna"
-      },
-      {
-        "room": "406",
-        "floor": 4,
-        "class": "HŠ2A",
-        "desc": "kmenová učebna"
-      },
-      {
-        "room": "405",
-        "floor": 4,
-        "class": "c3/Č3",
-        "desc": "kmenová učebna"
-      },
-      {
-        "room": "402",
-        "floor": 4,
-        "class": "K1A/K2A",
-        "desc": "kmenová učebna"
-      },
-      {
-        "room": "408",
-        "floor": 4,
-        "class": "HŠ3A",
-        "desc": "kmenová učebna"
-      }
-    ]
-  
+        {
+            "room": "120",
+            "floor": 1,
+            "class": "HŠ4B",
+            "desc": "kmenová učebna přístavba"
+        },
+        {
+            "room": "102",
+            "floor": 1,
+            "class": "",
+            "desc": "odborná učebna sociální činnost"
+        },
+        {
+            "room": "104",
+            "floor": 1,
+            "class": "SČ2",
+            "desc": "kmenová učebna"
+        },
+        {
+            "room": "108",
+            "floor": 1,
+            "class": "",
+            "desc": "odborná učebna stolničení"
+        },
+        {
+            "room": "110",
+            "floor": 1,
+            "class": "",
+            "desc": "cvičná kuchyňka 1"
+        },
+        {
+            "room": "107",
+            "floor": 1,
+            "class": "HŠ1A",
+            "desc": "kmenová učebna"
+        },
+        {
+            "room": "100",
+            "floor": 1,
+            "class": "",
+            "desc": "odborná učebna stolničení"
+        },
+        {
+            "room": "122",
+            "floor": 1,
+            "class": "HŠ4C",
+            "desc": "kmenová učebna přístavba"
+        }
+      ]
