@@ -42,6 +42,54 @@
             "desc": "odborná učebna stolničení"
         },
         {
+            "room": "111",
+            "floor": 1,
+            "class": "",
+            "desc": "Sborovna"
+        },
+        {
+            "room": "Balkón",
+            "floor": 1,
+            "class": "",
+            "desc": ""
+        },
+        {
+            "room": "109",
+            "floor": 1,
+            "class": "",
+            "desc": "Kabinet"
+        },
+        {
+            "room": "112",
+            "floor": 1,
+            "class": "",
+            "desc": "WC Chlapci"
+        },
+        {
+            "room": "103",
+            "floor": 1,
+            "class": "",
+            "desc": "Kabinet"
+        },
+        {
+            "room": "113",
+            "floor": 1,
+            "class": "",
+            "desc": "odborná učebna stolničení"
+        },
+        {
+            "room": "114",
+            "floor": 1,
+            "class": "",
+            "desc": "WC Dívky"
+        },
+        {
+            "room": "Kumbál",
+            "floor": 1,
+            "class": "",
+            "desc": ""
+        },
+        {
             "room": "122",
             "floor": 1,
             "class": "HŠ4C",
